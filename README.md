@@ -5,4 +5,5 @@ Abgeschlossene Kurse und Spezialisierungen auf Coursera
 Prof. Dr. Dennis Klinkhammer
 
 # Voraussetzungen
-cv2; cvlib; matplotlib.pyplot; tensorflow
+Folgende Packages sollten in Python installiert sein:
+cv2; cvlib; gluoncv; matplotlib; tensorflow
