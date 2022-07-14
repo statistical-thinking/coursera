@@ -5,4 +5,4 @@ Abgeschlossene Kurse und Spezialisierungen auf Coursera
 Prof. Dr. Dennis Klinkhammer
 
 # Voraussetzungen
-Keine
+cv2; cvlib; matplotlib.pyplot; tensorflow
